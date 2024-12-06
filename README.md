@@ -1,7 +1,3 @@
-Certainly! Here’s a simple README for a GitHub folder containing LeetCode SQL questions:
-
----
-
 # LeetCode SQL Questions
 
 Welcome to the repository containing solutions to LeetCode SQL questions. This folder includes SQL queries for various problems, providing a useful resource for practicing and improving your SQL skills.
